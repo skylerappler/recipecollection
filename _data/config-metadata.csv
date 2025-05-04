@@ -13,3 +13,7 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+chef,Chef
+preptime,Prep Time
+cooktime,Cook Time
+description,Description
