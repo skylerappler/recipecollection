@@ -16,8 +16,6 @@ credits: true
 
 This collection was created for Information Organization. It was created primarily to preserve recipes shared with me by family and friends at my bridal shower in October 2022.  
 
-{% include feature/image.html objectid="0004" width="75" %}
-
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
  
  
