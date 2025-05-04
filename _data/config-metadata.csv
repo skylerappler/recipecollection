@@ -17,3 +17,5 @@ chef,Chef
 preptime,Prep Time
 cooktime,Cook Time
 description,Description
+filedate,File Date
+objectid,Object ID
