@@ -1,4 +1,4 @@
-objectid,filename,title,chef,cuisine,preptime,cooktime,date,filedate,rights,format,description
+objectid,filename,title,chef,subject,preptime,cooktime,date,filedate,rights,format,description
 0001,rcp0001.jpg,Chicken Gnocchi Soup,"Appler, Skyler",Soups,00:10:00,00:30:00,2025-04-26,2025-04-26,Skyler Appler,image/jpeg,Skyler's own take on an Olive Garden classic
 0002,rcp0002.jpg,One Pan Chicken Fajitas,"Appler, Skyler","Cooking (Chicken), Fajitas",00:10:00,00:25:00,2019,2025-04-26,Skyler Appler,image/jpeg,A quick and easy meal prep option
 0003,rcp0003.jpg,Cheesy Potatoes,"Lawson, Tiffany",Cooking (Potatoes),00:05:00,01:00:00,2022-10-29,2025-04-26,Tiffany Lawson,image/jpeg,A comforting potato side dish
