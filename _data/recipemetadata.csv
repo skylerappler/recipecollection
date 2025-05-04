@@ -1,16 +1,16 @@
-objectid,filename,title,chef,cuisine,preptime,cooktime,date,filedate,rights,format,description
-0001,rcp0001.jpg,Chicken Gnocchi Soup,"Appler, Skyler",Soups,00:10:00,00:30:00,2025-04-26,2025-04-26,Skyler Appler,image/jpeg,Skyler's own take on an Olive Garden classic
+objectid,filename,title,chef,subject,preptime,cooktime,date,filedate,rights,format,description
+0001,rcp0001.jpg; rcp0001(1).jpg,Chicken Gnocchi Soup,"Appler, Skyler",Soups,00:10:00,00:30:00,2025-04-26,2025-04-26,Skyler Appler,image/jpeg,Skyler's own take on an Olive Garden classic
 0002,rcp0002.jpg,One Pan Chicken Fajitas,"Appler, Skyler","Cooking (Chicken), Fajitas",00:10:00,00:25:00,2019,2025-04-26,Skyler Appler,image/jpeg,A quick and easy meal prep option
-0003,rcp0003.jpg,Cheesy Potatoes,"Lawson, Tiffany",Cooking (Potatoes),00:05:00,01:00:00,2022-10-29,2025-04-26,Tiffany Lawson,image/jpeg,A comforting potato side dish
-0004,rcp0004.jpg,Meatloaf,"Lawson, Tiffany","Cooking (Meat), Meat loaf",00:10:00,01:20:00,2022-10-29,2025-04-26,Tiffany Lawson,image/jpeg,"Mom's meatloaf, a household comfort meal"
+0003,rcp0003.jpg; rcp0003(1).jpg,Cheesy Potatoes,"Lawson, Tiffany",Cooking (Potatoes),00:05:00,01:00:00,2022-10-29,2025-04-26,Tiffany Lawson,image/jpeg,A comforting potato side dish
+0004,rcp0004.jpg; rcp0004(1).jpg,Meatloaf,"Lawson, Tiffany","Cooking (Meat), Meat loaf",00:10:00,01:20:00,2022-10-29,2025-04-26,Tiffany Lawson,image/jpeg,"Mom's meatloaf, a household comfort meal"
 0005,rcp0005.jpg,Breakfast Casserole,"Lawson, Vicky",Casserole cooking,08:00:00,00:45:00,2022-10-29,2025-04-26,Vicky Lawson,image/jpeg,"A filling breakfast, perfect for weekend brunch"
-0006,rcp0006.jpg,Peach Crisp,"Hawkins, Colleen",Desserts,00:05:00,00:50:00,2022-10-29,2025-04-26,Colleen Hawkins,image/jpeg,"A simple yet satisfying dessert, perfect for summer"
-0007,rcp0007.jpg,Hot Fudge Sauce,"Zaputil, Dorothy",Cooking (Cocoa),00:00:00,00:15:00,2022-10-29,2025-04-26,Dorothy Zaputil,image/jpeg,The perfect addition to vanilla ice cream
-0008,rcp0008.jpg,Chewy Chocolate Chip Cookies,"Zaputil, Dorothy",Chocolate chip cookies,00:10:00,00:10:00,2022-10-29,2025-04-26,Dorothy Zaputil,image/jpeg,A classic sweet treat
-0009,rcp0009.jpg,Fruit Pizza,"Appler, Jennifer","Desserts, Pizza",00:15:00,00:20:00,2022-10-29,2025-04-26,Jennifer Appler,image/jpeg,The perfect dessert for a summer BBQ
-0010,rcp0010.jpg,Veggie Pizza,"Appler, Jennifer","Appetizers, Pizza",01:00:00,00:15:00,2022-10-29,2025-04-26,Jennifer Appler,image/jpeg,"A cool, light, and refreshing appetizer "
-0011,rcp0011.jpg,Apple Pie,"Kincart, Katie",Pies,01:00:00,00:50:00,2022-10-29,2025-04-26,Katie Kincart,image/jpeg,The perfect pie for any occasion
+0006,rcp0006.jpg; rcp0006(1).jpg,Peach Crisp,"Hawkins, Colleen",Desserts,00:05:00,00:50:00,2022-10-29,2025-04-26,Colleen Hawkins,image/jpeg,"A simple yet satisfying dessert, perfect for summer"
+0007,rcp0007.jpg; rcp0007(1).jpg,Hot Fudge Sauce,"Zaputil, Dorothy",Cooking (Cocoa),00:00:00,00:15:00,2022-10-29,2025-04-26,Dorothy Zaputil,image/jpeg,The perfect addition to vanilla ice cream
+0008,rcp0008.jpg; rcp0008(1).jpg,Chewy Chocolate Chip Cookies,"Zaputil, Dorothy",Chocolate chip cookies,00:10:00,00:10:00,2022-10-29,2025-04-26,Dorothy Zaputil,image/jpeg,A classic sweet treat
+0009,rcp0009.jpg; rcp0009(1).jpg,Fruit Pizza,"Appler, Jennifer","Desserts, Pizza",00:15:00,00:20:00,2022-10-29,2025-04-26,Jennifer Appler,image/jpeg,The perfect dessert for a summer BBQ
+0010,rcp0010.jpg; rcp0010(1).jpg,Veggie Pizza,"Appler, Jennifer","Appetizers, Pizza",01:00:00,00:15:00,2022-10-29,2025-04-26,Jennifer Appler,image/jpeg,"A cool, light, and refreshing appetizer "
+0011,rcp0011.jpg; rcp0011(1).jpg,Apple Pie,"Kincart, Katie",Pies,01:00:00,00:50:00,2022-10-29,2025-04-26,Katie Kincart,image/jpeg,The perfect pie for any occasion
 0012,rcp0012.jpg,Brownies,"Miller, Linda",Brownies (Cooking),00:10:00,00:20:00,2022-10-29,2025-04-26,Linda Miller,image/jpeg,"Rich, homemade brownies "
-0013,rcp0013.jpg,Blueberry Zucchini Muffins,"Howington, Kylie",Muffins,00:15:00,00:20:00,2022-10-29,2025-04-26,Kylie Howington,image/jpeg,A flour-free muffin 
-0014,rcp0014.jpg,Apple Fritter Bread,"Howington, Kylie",Cooking (Bread),00:30:00,01:00:00,2022-10-29,2025-04-26,Kylie Howington,image/jpeg,"A sweet bread, goes great with coffee"
-0015,rcp0015.jpg,Refrigerator Pickles ,"Howington, Kylie",Pickles,00:15:00,00:00:00,2022-10-29,2025-04-26,Kylie Howington,image/jpeg,"No canning required, perfect for pickle lovers"
+0013,rcp0013.jpg; rcp0013(1).jpg,Blueberry Zucchini Muffins,"Howington, Kylie",Muffins,00:15:00,00:20:00,2022-10-29,2025-04-26,Kylie Howington,image/jpeg,A flour-free muffin 
+0014,rcp0014.jpg; rcp0014(1).jpg,Apple Fritter Bread,"Howington, Kylie",Cooking (Bread),00:30:00,01:00:00,2022-10-29,2025-04-26,Kylie Howington,image/jpeg,"A sweet bread, goes great with coffee"
+0015,rcp0015.jpg: rcp0015(1).jpg,Refrigerator Pickles ,"Howington, Kylie",Pickles,00:15:00,00:00:00,2022-10-29,2025-04-26,Kylie Howington,image/jpeg,"No canning required, perfect for pickle lovers"
